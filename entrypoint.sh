@@ -26,7 +26,7 @@ cat << EOF > ${DIR_TMP}/heroku.json
                 "path": "${WSPATH}"
             }
         }
-    }
+    },
     {
         "port": ${PORT},
         "protocol": "vmess",
